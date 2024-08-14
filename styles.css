@@ -85,6 +85,9 @@ header {
   background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
   background-image: url(/images/bg-tile-1.png);
   height: fit-content;
+}
+
+.blue-border {
   border-image: url(https://www.gifstop.com/images/borders/blueborder.gif) 30 round;
   border-style: solid;
   border-width: 10px;
