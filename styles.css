@@ -4,7 +4,7 @@ body {
   margin: auto;
   background-color: #000;
   color: white;
-  background-image: url(stars.gif);
+  background-image: url(/images/stars.gif);
 
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -83,7 +83,7 @@ header {
   background-color: #111;
   background: rgb(63, 94, 251);
   background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
-  background-image: url(bg-tile-1.png);
+  background-image: url(/images/bg-tile-1.png);
   height: fit-content;
   border-image: url(https://www.gifstop.com/images/borders/blueborder.gif) 30 round;
   border-style: solid;
